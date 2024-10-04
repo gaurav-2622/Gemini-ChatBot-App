@@ -37,7 +37,7 @@ fun ChatList(
                     text = it.message,
                     modifier = Modifier
                         .fillMaxSize()
-                        .background(Color.LightGray)
+                        .background(Color.Blue)
                         .padding(12.dp),
                     color=Color.White,
                     fontSize=18.sp,
